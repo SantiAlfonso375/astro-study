@@ -1,0 +1,2 @@
+# astro-study
+aprendiendo astro 
